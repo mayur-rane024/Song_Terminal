@@ -10,9 +10,7 @@ class Song {
 public:
     // Constructor to initialize song details
     Song(string t, string a, float d) {
-        title = t;
-        artist = a;
-        duration = d;
+        
     }
 
     // Display song details
